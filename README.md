@@ -1,1 +1,3 @@
 # SDCML-STEEL-DEFECT-CLASSIFICATION-USING-MACHINE-LEARNING
+     It is a research that we did for detecting various different types of defects in steel surfaces using machine learning and deep learning techniques such that CNN, KNN and transfer learning. We used python language for implementation. We augmented the dataset for KNN and managed to improve the previously existing accuracy of 28% to 41%. Furthermore, we proposed a new method that uses VGG-16 Models and managed to obtain an accuracy of 97.5%. The paper has already been accepted in Conference IMCOM 2022. Paper can be viewed on this link.
+Link: https://www.overleaf.com/read/vfjpkqbmkwsz 
